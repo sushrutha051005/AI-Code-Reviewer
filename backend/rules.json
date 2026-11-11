@@ -1,0 +1,20 @@
+{
+    "enabled_rules": [
+        "SEC001",
+        "SEC002",
+        "SEC003",
+        "SEC004",
+        "SEC005",
+        "BUG001",
+        "BUG002",
+        "BUG003",
+        "STYLE001",
+        "STYLE002",
+        "STYLE003",
+        "PERF001",
+        "PERF002"
+    ],
+    "ignored_rules": [
+    "STYLE001"
+    ]
+}
